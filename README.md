@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @luizguithub
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, Java Script and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in every day learn a little more!
+- 🌱 I’m currently learning HTML, CSS, Java Script and a little bit of Python
+- 💞️ I’m looking to collaborate on web development projects that aim to solve real-world problems.
 - 📫 How to reach me you can contact me on email luiz.guilherme.github@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.guilherme.github@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.luizsg?igsh=MXNjdHpqd2x0Y2lqdQ==) <br>
