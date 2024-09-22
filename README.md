@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.guilherme.github@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/lucas.alveslupinacci?igsh=cWszb25mZGtsOWlx](https://www.instagram.com/l.luizsg?igsh=MXNjdHpqd2x0Y2lqdQ==)) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.luizsg?igsh=MXNjdHpqd2x0Y2lqdQ==) <br>
 
 #### Tecnologias que uso no meu dia:
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
