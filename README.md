@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luizguithub
 - 👀 I’m interested in every day learn a little more!
 - 🌱 I’m currently learning HTML, CSS, Java Script and a little bit of Python
-- 💞️ I’m looking to collaborate on web development projects that aim to solve real-world problems.
+- 💞️ I’m looking to collaborate on web development. I turn your ideas into projects
 - 📫 How to reach me you can contact me on email luiz.guilherme.github@gmail.com
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.guilherme.github@gmail.com)
